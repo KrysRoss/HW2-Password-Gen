@@ -1,4 +1,4 @@
-# HW2-Password-Gen# 03 JavaScript: Password Generator
+# HW3-Password-Gen# 03 JavaScript: Password Generator
 
 ## Your Task
 
